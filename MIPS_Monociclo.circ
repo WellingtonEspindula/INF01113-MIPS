@@ -188,7 +188,6 @@
     <wire from="(800,220)" to="(810,220)"/>
     <wire from="(550,450)" to="(560,450)"/>
     <wire from="(630,370)" to="(640,370)"/>
-    <wire from="(610,440)" to="(610,450)"/>
     <wire from="(450,80)" to="(640,80)"/>
     <wire from="(110,580)" to="(490,580)"/>
     <wire from="(140,280)" to="(200,280)"/>
@@ -220,6 +219,7 @@
     <wire from="(380,80)" to="(400,80)"/>
     <wire from="(310,1050)" to="(330,1050)"/>
     <wire from="(150,1100)" to="(150,1140)"/>
+    <wire from="(580,510)" to="(610,510)"/>
     <wire from="(530,950)" to="(1260,950)"/>
     <wire from="(400,870)" to="(400,910)"/>
     <wire from="(180,1000)" to="(200,1000)"/>
@@ -245,6 +245,7 @@
     <wire from="(110,1180)" to="(170,1180)"/>
     <wire from="(1090,870)" to="(1260,870)"/>
     <wire from="(690,450)" to="(880,450)"/>
+    <wire from="(610,440)" to="(610,510)"/>
     <wire from="(690,360)" to="(690,450)"/>
     <wire from="(840,400)" to="(840,430)"/>
     <wire from="(870,360)" to="(910,360)"/>
@@ -419,11 +420,6 @@
     </comp>
     <comp lib="1" loc="(140,840)" name="NOT Gate">
       <a name="facing" val="north"/>
-    </comp>
-    <comp lib="0" loc="(610,450)" name="Constant">
-      <a name="facing" val="north"/>
-      <a name="width" val="3"/>
-      <a name="value" val="0x3"/>
     </comp>
     <comp lib="3" loc="(240,270)" name="Adder">
       <a name="width" val="32"/>
