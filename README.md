@@ -1,13 +1,18 @@
-# MIPS
+## MIPS
+### Brief
 This project - first assignment of Computer Organization course - aims to implement JALR, BNE, LBU and SLLV instructions in Monocycle, Multicycle and Pipeline version of MIPS through logisim simulator.
 
-Authors:
-Haroldo
-Ingrid
-Vitória
-Wellington Espindula
+### Doc
+The doc, all written in Poruguese, was attached [here](MIPS%20-%20G1.pdf).
 
-Jump:  JALR (Jump And Link Register) - Wellington <br>
-Branch: BNE (Branch on Not Equal) - Ingrid <br>
-Load : LBU (Load Byte Unsigned) - Haroldo <br>
-Arit/Log : SLLV (Shift Left Logical Variable) - Vitória <br>
+### Implementation
+The MIPS Monocycle can be found in [MIPS_Monociclo.circ](MIPS_Monociclo.circ). <br>
+The Multicycle can be found in [MIPS_Multiciclo.circ](MIPS_Multiciclo.circ). <br>
+The Multicycle can be found in [MIPS_Pipeline_2017.circ](MIPS_Pipeline_2017.circ).
+
+
+### Authors:
+Haroldo Rojas de Souza Silva <br>
+Ingrid Murielem <br>
+Vitória Lentz <br>
+Wellington Espindula
