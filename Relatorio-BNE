@@ -1,8 +1,0 @@
-
-Instrução BNE - Branch not Equal
-
-Essa instrução deve fazer um salto caso os dois operandos sejam diferentes.
-https://www.c64-wiki.com/wiki/BNE#:~:text=BNE%20(short%20for%20%22Branch%20if,the%20zero%20flag%20is%20clear.
-
-Monociclo, Multiciclo e Pipeline: Podemos adicionar um bit de controle BNE quando a instrução é chamada podemos ligar esse bit seguido de um "OR"com o branchEqual.
-Pode-se utilizar toda a base do branchEqual  somente adicionando esse bit de controle comentado acima e fazendo o or.
