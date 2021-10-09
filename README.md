@@ -1,6 +1,6 @@
 ## MIPS
 ### Brief
-This project - first assignment of Computer Organization course - aims to implement JALR, BNE, LBU and SLLV instructions in Monocycle, Multicycle and Pipeline version of MIPS through logisim simulator.
+This project - first assignment of Computer Organization course - aims to implement JALR, BNE, LBU and SLLV instructions in Monocycle, Multicycle and Pipeline versions of MIPS through logisim simulator. The basic instructions such as LW, SW, ADD, SUB and BEQ were already implement in those three organization.
 
 ### Doc
 The doc, all written in Poruguese, was attached [here](MIPS%20-%20G1.pdf).
